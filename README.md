@@ -202,5 +202,4 @@ Potential improvements include:
 
 **Ifaj Tajwar Khan**
 
-BSc (Hons) Computer Science — First Class  
-MSc Data Science & Analytics
+
